@@ -1,4 +1,4 @@
-import './css/App.css';
+import './App.css';
 import { Route, Routes } from 'react-router-dom';
 import LoginMain from './pages/LoginMain';
 import ELogin from './pages/ELogin';

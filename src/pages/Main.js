@@ -31,7 +31,7 @@ function Main(){
                     <span className='box-title'>진단 기록 보기</span>
                 </Link>
             </div>
-
+            <input type="file" accept="image/*" capture="camera" />
             <div>
                 <span className='guide-title'>🔎 진단 가이드 확인하기</span>
                 <div className='guide-box'>
